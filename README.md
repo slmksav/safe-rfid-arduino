@@ -5,6 +5,7 @@ This Arduino project uses an RFID reader, a servo motor, a buzzer, an LCD displa
 
 It also includes functions for reading and storing RFID tags, as well as for controlling the servo motor and displaying information such as time on the LCD and indicating states of the device with light and sound. The system can be switched between RFID and keypad modes using any button on the keypad.
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=y9YKyBdq6c4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/87731856/213175431-1f7e3f74-017c-4eb0-a86e-d52784d4b2ab.mp4
+
