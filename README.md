@@ -8,5 +8,7 @@ It also includes functions for reading and storing RFID tags, as well as for con
 # Video
 https://user-images.githubusercontent.com/87731856/213175431-1f7e3f74-017c-4eb0-a86e-d52784d4b2ab.mp4
 
+Credits: Sauli S., Samuli P.
 # List of components
 TBD
+
